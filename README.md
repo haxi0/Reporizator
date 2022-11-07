@@ -1,5 +1,5 @@
 <p align="center">
-<img src="Reporizator/Assets.xcassets/Reporizator.imageset/org.haxi0.reporizator.png" alt="Logo" width="200" height="200">
+<img src="org.haxi0.reporizator.png" height="200">
 </p>
 
 # Reporizator
